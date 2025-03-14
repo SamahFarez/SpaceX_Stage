@@ -20,7 +20,7 @@ Pour exécuter le projet localement :
 1. Clonez le dépôt :
 
     ```bash
-    git clone [https://github.com/SamahFarez/SpaceX_Stage/](https://github.com/SamahFarez/SpaceX_Stage/)
+    git clone https://github.com/SamahFarez/SpaceX_Stage/
     ```
 
 2. Accédez au dossier du projet :
